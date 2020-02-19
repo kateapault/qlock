@@ -1,0 +1,14 @@
+body {
+    background-image: url("images/BGrainbow1.jpeg");
+    background-size: 100%;
+    align-content: center;
+}
+
+h1 {
+    font-size: 36pt;
+}
+
+h3 {
+    font-size: 100pt;
+    text-align: center;
+}
